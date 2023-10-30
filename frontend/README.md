@@ -2,7 +2,7 @@
 
 1. Install pnpm if not installed `npm i -g pnpm`
 2. Run `pnpm i`
-3. Run `pnpm dev`
+3. Run `pnpm dev --port=3000 --host`
 
 # React + TypeScript + Vite
 
